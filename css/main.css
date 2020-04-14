@@ -35,3 +35,6 @@ header .header-icons-container .icons {
     justify-self: end;
     margin-right: 15px;
 }
+header .icons span {
+    color: white;
+}
